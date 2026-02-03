@@ -1,0 +1,8 @@
+livekit
+livekit-api
+livekit-agents
+livekit-plugins-openai
+livekit-plugins-deepgram
+livekit-plugins-elevenlabs
+livekit-plugins-silero
+python-dotenv
